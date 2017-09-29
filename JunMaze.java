@@ -32,7 +32,7 @@ public class JunMaze {
 		jmaze.BFSSolver();
 		jmaze.printMaze();
 		// get time
-		System.out.println("Added stuff again");
+		System.out.println("Added stuff again -1");
 		long eTime = System.currentTimeMillis();
 		System.out.println("Runtime:  " + (eTime - sTime) + " ms");
 
