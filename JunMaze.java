@@ -34,7 +34,7 @@ public class JunMaze {
 		// get time
 		System.out.println("Added stuff again -1");
 		long eTime = System.currentTimeMillis();
-		System.out.println("Runtime:  " + (eTime - sTime) + " ms");
+		System.out.println("Runtime is:  " + (eTime - sTime) + " ms");
 
 
 	}
